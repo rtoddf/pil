@@ -1,0 +1,50 @@
+{
+  "checksum": {
+    "previous": "d8587bf43f9857e9087b17ada39587d35df52efb0387b908cf7a58b82b79c5f8",
+    "current": "d8587bf43f9857e9087b17ada39587d35df52efb0387b908cf7a58b82b79c5f8"
+  },
+  "fonts": [
+    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.ttf",
+    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.svg",
+    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.woff",
+    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.eot"
+  ],
+  "glyphs": {
+    "tv-drwho-tardis": {
+      "codepoint": 61931,
+      "source": "svgs-popculture/tv-drwho-tardis.svg"
+    }
+  },
+  "options": {
+    "autowidth": false,
+    "config": false,
+    "css_selector": ".icon-{{glyph}}",
+    "debug": false,
+    "font_ascent": 448,
+    "font_descent": 64,
+    "font_design_size": 16,
+    "font_em": 512,
+    "font_name": "popculture",
+    "force": false,
+    "input": {
+      "templates": "svgs-popculture/",
+      "vectors": "svgs-popculture/"
+    },
+    "no_hash": false,
+    "output": {
+      "css": "popculture",
+      "fonts": "popculture",
+      "preview": "popculture"
+    },
+    "preprocessor_path": null,
+    "quiet": false,
+    "templates": [
+      "css",
+      "preview"
+    ]
+  },
+  "templates": [
+    "popculture/popculture.css",
+    "popculture/popculture-preview.html"
+  ]
+}

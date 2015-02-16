@@ -1,0 +1,36 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<!--
+2015-2-16: Created with FontForge (http://fontforge.org)
+-->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20141127 at Mon Feb 16 10:46:09 2015
+ By Todd Fleeman
+Copyright (c) 2015, Todd Fleeman
+</metadata>
+<defs>
+<font id="popculture" horiz-adv-x="200" >
+  <font-face 
+    font-family="popculture"
+    font-weight="400"
+    font-stretch="normal"
+    units-per-em="512"
+    panose-1="2 0 5 3 0 0 0 0 0 0"
+    ascent="448"
+    descent="-64"
+    bbox="19.6807 -50.9668 492.318 434.967"
+    underline-thickness="25.6"
+    underline-position="-51.2"
+    unicode-range="U+0020-F1EB"
+  />
+    <missing-glyph />
+    <glyph glyph-name="space" unicode=" " 
+ />
+    <glyph glyph-name="uniF1EB" unicode="&#xf1eb;" horiz-adv-x="512" 
+d="M492.318 -5.6377c0 -25.0361 -20.2939 -45.3291 -45.3281 -45.3291h-381.98c-25.0342 0 -45.3291 20.2939 -45.3291 45.3291v395.275c0.000976562 25.0352 20.2949 45.3291 45.3291 45.3291h381.98c25.0342 0 45.3281 -20.2939 45.3281 -45.3291v-395.275z
+M338.284 363.118v17.7578h-9.45312v12.6055h-62.6621v15.499c0 4.58984 -4.51367 8.31055 -10.083 8.31055h-6.44336c-5.56934 0 -10.083 -3.7207 -10.083 -8.31055v-15.499h-56.3887v-12.6055h-9.45312v-17.7578h-10.2051v-396.41h184.978v396.41h-10.2061zM178.27 346.562
+h155.461v-21.709h-155.461v21.709zM250.328 223.539h-72.9443v69.8008h72.9443v-69.8008zM335.648 223.539h-72.9443v69.8008h72.9443v-69.8008zM196.96 218.375h2.81348v77.2715h-2.81348v-77.2715zM226.397 218.375h2.8125v77.2715h-2.8125v-77.2715zM280.292 218.375
+h2.81348v77.2715h-2.81348v-77.2715zM309.944 218.375h2.81348v77.2715h-2.81348v-77.2715zM175.883 257.339h163.375v3.25781h-163.375v-3.25781z" />
+  </font>
+</defs></svg>

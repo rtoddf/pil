@@ -1,17 +1,37 @@
 {
   "checksum": {
-    "previous": "d8587bf43f9857e9087b17ada39587d35df52efb0387b908cf7a58b82b79c5f8",
-    "current": "d8587bf43f9857e9087b17ada39587d35df52efb0387b908cf7a58b82b79c5f8"
+    "previous": "447afd4d7e8d0b3150d967faba6235a540a44454ac0c889f9109d7857f38959d",
+    "current": "447afd4d7e8d0b3150d967faba6235a540a44454ac0c889f9109d7857f38959d"
   },
   "fonts": [
-    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.ttf",
-    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.svg",
-    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.woff",
-    "popculture/popculture_d8587bf43f9857e9087b17ada39587d3.eot"
+    "pop/pop.ttf",
+    "pop/pop.svg",
+    "pop/pop.woff",
+    "pop/pop.eot"
   ],
   "glyphs": {
+    "comic-batman": {
+      "codepoint": 62003,
+      "source": "svgs-popculture/comic-batman.svg"
+    },
+    "movie-clockwork-orange": {
+      "codepoint": 61998,
+      "source": "svgs-popculture/movie-clockwork-orange.svg"
+    },
+    "movie-clockwork-scream": {
+      "codepoint": 61999,
+      "source": "svgs-popculture/movie-clockwork-scream.svg"
+    },
+    "movie-paranorman": {
+      "codepoint": 62000,
+      "source": "svgs-popculture/movie-paranorman.svg"
+    },
+    "tv-drwho-dalek": {
+      "codepoint": 62001,
+      "source": "svgs-popculture/tv-drwho-dalek.svg"
+    },
     "tv-drwho-tardis": {
-      "codepoint": 61931,
+      "codepoint": 62002,
       "source": "svgs-popculture/tv-drwho-tardis.svg"
     }
   },
@@ -24,27 +44,28 @@
     "font_descent": 64,
     "font_design_size": 16,
     "font_em": 512,
-    "font_name": "popculture",
+    "font_name": "pop",
     "force": false,
     "input": {
       "templates": "svgs-popculture/",
       "vectors": "svgs-popculture/"
     },
-    "no_hash": false,
+    "no_hash": true,
     "output": {
-      "css": "popculture",
-      "fonts": "popculture",
-      "preview": "popculture"
+      "css": "pop",
+      "fonts": "pop",
+      "preview": "pop"
     },
     "preprocessor_path": null,
     "quiet": false,
+    "skip_first": false,
     "templates": [
       "css",
       "preview"
     ]
   },
   "templates": [
-    "popculture/popculture.css",
-    "popculture/popculture-preview.html"
+    "pop/pop.css",
+    "pop/pop-preview.html"
   ]
 }

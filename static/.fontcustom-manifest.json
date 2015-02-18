@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "447afd4d7e8d0b3150d967faba6235a540a44454ac0c889f9109d7857f38959d",
-    "current": "447afd4d7e8d0b3150d967faba6235a540a44454ac0c889f9109d7857f38959d"
+    "previous": "022d1326ab3ff43752331f4c10112d99cab5622b733c9b2e34f2409c78b8a16d",
+    "current": "022d1326ab3ff43752331f4c10112d99cab5622b733c9b2e34f2409c78b8a16d"
   },
   "fonts": [
     "pop/pop.ttf",
@@ -11,28 +11,36 @@
   ],
   "glyphs": {
     "comic-batman": {
-      "codepoint": 62003,
+      "codepoint": 62068,
       "source": "svgs-popculture/comic-batman.svg"
     },
+    "comic-the-wasp": {
+      "codepoint": 62075,
+      "source": "svgs-popculture/comic-the-wasp.svg"
+    },
     "movie-clockwork-orange": {
-      "codepoint": 61998,
+      "codepoint": 62069,
       "source": "svgs-popculture/movie-clockwork-orange.svg"
     },
     "movie-clockwork-scream": {
-      "codepoint": 61999,
+      "codepoint": 62070,
       "source": "svgs-popculture/movie-clockwork-scream.svg"
     },
     "movie-paranorman": {
-      "codepoint": 62000,
+      "codepoint": 62071,
       "source": "svgs-popculture/movie-paranorman.svg"
     },
     "tv-drwho-dalek": {
-      "codepoint": 62001,
+      "codepoint": 62072,
       "source": "svgs-popculture/tv-drwho-dalek.svg"
     },
     "tv-drwho-tardis": {
-      "codepoint": 62002,
+      "codepoint": 62073,
       "source": "svgs-popculture/tv-drwho-tardis.svg"
+    },
+    "tv-simpsons-bart": {
+      "codepoint": 62074,
+      "source": "svgs-popculture/tv-simpsons-bart.svg"
     }
   },
   "options": {

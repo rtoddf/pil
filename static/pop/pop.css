@@ -24,11 +24,13 @@
 
 [data-icon]:before,
 .icon-comic-batman:before,
+.icon-comic-the-wasp:before,
 .icon-movie-clockwork-orange:before,
 .icon-movie-clockwork-scream:before,
 .icon-movie-paranorman:before,
 .icon-tv-drwho-dalek:before,
-.icon-tv-drwho-tardis:before {
+.icon-tv-drwho-tardis:before,
+.icon-tv-simpsons-bart:before {
   display: inline-block;
   font-family: "pop";
   font-style: normal;
@@ -43,9 +45,11 @@
   font-smoothing: antialiased;
 }
 
-.icon-comic-batman:before { content: "\f233"; }
-.icon-movie-clockwork-orange:before { content: "\f22e"; }
-.icon-movie-clockwork-scream:before { content: "\f22f"; }
-.icon-movie-paranorman:before { content: "\f230"; }
-.icon-tv-drwho-dalek:before { content: "\f231"; }
-.icon-tv-drwho-tardis:before { content: "\f232"; }
+.icon-comic-batman:before { content: "\f274"; }
+.icon-comic-the-wasp:before { content: "\f27b"; }
+.icon-movie-clockwork-orange:before { content: "\f275"; }
+.icon-movie-clockwork-scream:before { content: "\f276"; }
+.icon-movie-paranorman:before { content: "\f277"; }
+.icon-tv-drwho-dalek:before { content: "\f278"; }
+.icon-tv-drwho-tardis:before { content: "\f279"; }
+.icon-tv-simpsons-bart:before { content: "\f27a"; }

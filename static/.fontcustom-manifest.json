@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "1f98e83dde0b2320c814c71cf0ba955ef45b9210b9ea084b92b12de778d219ed",
-    "current": "1f98e83dde0b2320c814c71cf0ba955ef45b9210b9ea084b92b12de778d219ed"
+    "previous": "27b643057c69223a5b6fa14ab01f4ca398b71039a5b6a012c972810d9773736f",
+    "current": "27b643057c69223a5b6fa14ab01f4ca398b71039a5b6a012c972810d9773736f"
   },
   "fonts": [
     "rtodd/rtodd.ttf",
@@ -58,6 +58,10 @@
       "codepoint": 62237,
       "source": "svgs/politics-democrat.svg"
     },
+    "politics-politician": {
+      "codepoint": 62294,
+      "source": "svgs/politics-politician.svg"
+    },
     "politics-republican": {
       "codepoint": 62238,
       "source": "svgs/politics-republican.svg"
@@ -106,6 +110,10 @@
       "codepoint": 62249,
       "source": "svgs/profession-librarian.svg"
     },
+    "profession-politician": {
+      "codepoint": 62295,
+      "source": "svgs/profession-politician.svg"
+    },
     "profession-singer": {
       "codepoint": 62250,
       "source": "svgs/profession-singer.svg"
@@ -121,6 +129,10 @@
     "social-opposite-sex": {
       "codepoint": 62253,
       "source": "svgs/social-opposite-sex.svg"
+    },
+    "social-organization": {
+      "codepoint": 62296,
+      "source": "svgs/social-organization.svg"
     },
     "social-same-sex-1": {
       "codepoint": 62254,

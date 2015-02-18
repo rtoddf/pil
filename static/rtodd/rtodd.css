@@ -35,6 +35,7 @@
 .icon-music-treble-clef:before,
 .icon-politics-amnesty:before,
 .icon-politics-democrat:before,
+.icon-politics-politician:before,
 .icon-politics-republican:before,
 .icon-pop-culture-clockwork-orange:before,
 .icon-pop-culture-dc-batman:before,
@@ -47,10 +48,12 @@
 .icon-profession-artist:before,
 .icon-profession-athlete:before,
 .icon-profession-librarian:before,
+.icon-profession-politician:before,
 .icon-profession-singer:before,
 .icon-science-atom:before,
 .icon-social-hrc:before,
 .icon-social-opposite-sex:before,
+.icon-social-organization:before,
 .icon-social-same-sex-1:before,
 .icon-social-same-sex-2:before,
 .icon-social-youtube:before,
@@ -117,6 +120,7 @@
 .icon-music-treble-clef:before { content: "\f31b"; }
 .icon-politics-amnesty:before { content: "\f31c"; }
 .icon-politics-democrat:before { content: "\f31d"; }
+.icon-politics-politician:before { content: "\f356"; }
 .icon-politics-republican:before { content: "\f31e"; }
 .icon-pop-culture-clockwork-orange:before { content: "\f31f"; }
 .icon-pop-culture-dc-batman:before { content: "\f320"; }
@@ -129,10 +133,12 @@
 .icon-profession-artist:before { content: "\f327"; }
 .icon-profession-athlete:before { content: "\f328"; }
 .icon-profession-librarian:before { content: "\f329"; }
+.icon-profession-politician:before { content: "\f357"; }
 .icon-profession-singer:before { content: "\f32a"; }
 .icon-science-atom:before { content: "\f32b"; }
 .icon-social-hrc:before { content: "\f32c"; }
 .icon-social-opposite-sex:before { content: "\f32d"; }
+.icon-social-organization:before { content: "\f358"; }
 .icon-social-same-sex-1:before { content: "\f32e"; }
 .icon-social-same-sex-2:before { content: "\f32f"; }
 .icon-social-youtube:before { content: "\f330"; }

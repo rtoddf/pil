@@ -24,6 +24,8 @@
 
 [data-icon]:before,
 .icon-comic-batman:before,
+.icon-comic-batman-beyond:before,
+.icon-comic-batman-beyond-2:before,
 .icon-comic-nightwing:before,
 .icon-comic-the-wasp:before,
 .icon-movie-borat:before,
@@ -53,6 +55,8 @@
 }
 
 .icon-comic-batman:before { content: "\f413"; }
+.icon-comic-batman-beyond:before { content: "\f422"; }
+.icon-comic-batman-beyond-2:before { content: "\f423"; }
 .icon-comic-nightwing:before { content: "\f414"; }
 .icon-comic-the-wasp:before { content: "\f415"; }
 .icon-movie-borat:before { content: "\f416"; }

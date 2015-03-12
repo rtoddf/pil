@@ -1,7 +1,7 @@
 {
   "checksum": {
-    "previous": "0e431ba7a33c5f4b74951946235a93cd34f81fa8126b0141ed2d7e14642ef537",
-    "current": "0e431ba7a33c5f4b74951946235a93cd34f81fa8126b0141ed2d7e14642ef537"
+    "previous": "2395fe9793d182b6aa0e625d2250cbe2c7b892af12f610efcae89cb6b9354145",
+    "current": "2395fe9793d182b6aa0e625d2250cbe2c7b892af12f610efcae89cb6b9354145"
   },
   "fonts": [
     "pop/pop.ttf",
@@ -13,6 +13,14 @@
     "comic-batman": {
       "codepoint": 62483,
       "source": "svgs-popculture/comic-batman.svg"
+    },
+    "comic-batman-beyond": {
+      "codepoint": 62498,
+      "source": "svgs-popculture/comic-batman-beyond.svg"
+    },
+    "comic-batman-beyond-2": {
+      "codepoint": 62499,
+      "source": "svgs-popculture/comic-batman-beyond-2.svg"
     },
     "comic-nightwing": {
       "codepoint": 62484,
